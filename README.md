@@ -34,6 +34,7 @@ This pairplot visualizes relationships between key features — Year Introduced,
 
 ### Correlation Heatmap
 ![🔥 Correlation Heatmap](Screenshots/Screenshot_2.png)
+
 The heatmap highlights correlations between numerical features such as Height, Speed, Inversions, and G-force.
 
 - A strong positive correlation between height and speed, indicating taller coasters generally achieve higher speeds.
@@ -42,6 +43,7 @@ The heatmap highlights correlations between numerical features such as Height, S
 
 ### Step 5: Asking a Question
 ![🏆 Step 5: Asking a Question — “Which locations have the fastest roller coasters?”](Screenshots/Screenshot_3.png)
+
 This visualization answers the question by showing the top 10 amusement park locations with the highest average coaster speeds.
 
 ---
