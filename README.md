@@ -2,6 +2,8 @@
 This project performs Exploratory Data Analysis (EDA) on a Roller Coaster dataset to explore trends and relationships among coaster characteristics such as speed, height, inversions, G-force, year introduced, and location.
 The main goal is to uncover how coaster designs have evolved over time, what drives their speed and intensity, and which parks lead in pushing coaster engineering limits.
 
+---
+
 ## 🧰 Tools & Libraries
 
 - Python
